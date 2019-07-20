@@ -2468,7 +2468,7 @@ Role,Role,module,Magento_Catalog
 "Buy %1 for: ","Buy %1 for: ",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Ai adăugat produsul %1 în <a href=""%2"">lista de comparaţie</a>.",module,Magento_Catalog
 "Shop By","Shop By",module,Magento_Catalog
 "Shopping Options","Shopping Options",module,Magento_Catalog
 "Compare Products","Compare Products",module,Magento_Catalog
@@ -2556,7 +2556,7 @@ State/Province,State/Province,module,Magento_Checkout
 "Customer is already registered","Customer is already registered",module,Magento_Checkout
 "Your session has expired","Your session has expired",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","A letter with further instructions will be sent to your email.",module,Magento_Checkout
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_Checkout
+"You added %1 to your shopping cart.","Ai adăugat %1 în coşul tău de cumpărături.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Checkout
 "Out of stock","Out of stock",module,Magento_Checkout
 "Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
@@ -2634,7 +2634,7 @@ Edit,Edit,module,Magento_Checkout
 "Estimate Tax","Estimate Tax",module,Magento_Checkout
 "Estimate Shipping and Tax","Estimate Shipping and Tax",module,Magento_Checkout
 "Excl. Tax","Excl. Tax",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Ai adăugat %1 în <a href=""%2"">coşul de cumpărături</a>.",module,Magento_Checkout
 Loading...,Loading...,module,Magento_Checkout
 "Order #","Order #",module,Magento_Checkout
 "Proceed to Checkout","Proceed to Checkout",module,Magento_Checkout
@@ -7842,7 +7842,7 @@ Page,Page,module,Magento_Widget
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","We can't add the item to Wish List right now.",module,Magento_Wishlist
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","Ai adăugat %1 în coşul tău de cumpărături.",module,Magento_Wishlist
 "This product(s) is out of stock.","This product(s) is out of stock.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","We can't add the item to the cart right now.",module,Magento_Wishlist
 "The Wish List item can't load at this time. Please try again later.","The Wish List item can't load at this time. Please try again later.",module,Magento_Wishlist
@@ -8067,12 +8067,12 @@ Username,Username,module,MSP_TwoFactorAuth
 "Category id is not valid","Category id is not valid",module,Plumrocket_Amp
 "View All %1","View All %1",module,Plumrocket_Amp
 "Live Chat","Live Chat",module,Plumrocket_Amp
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Plumrocket_Amp
+"You added %1 to your shopping cart.","Ai adăugat %1 în coşul tău de cumpărături.",module,Plumrocket_Amp
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Plumrocket_Amp
 "Out of stock","Out of stock",module,Plumrocket_Amp
 "Something went wrong","Something went wrong",module,Plumrocket_Amp
 "We can't specify a product.","We can't specify a product.",module,Plumrocket_Amp
-"You added product %1 to the comparison list.","You added product %1 to the comparison list.",module,Plumrocket_Amp
+"You added product %1 to the comparison list.","Ai adăugat %1 în lista de comparaţie.",module,Plumrocket_Amp
 "Requested store is inactive","Requested store is inactive",module,Plumrocket_Amp
 "The store that was requested wasn't found. Verify the store and try again.","The store that was requested wasn't found. Verify the store and try again.",module,Plumrocket_Amp
 "You will be redirected to the login page","You will be redirected to the login page",module,Plumrocket_Amp
