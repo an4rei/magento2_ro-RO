@@ -1,0 +1,14 @@
+{
+	"name": "an4rei/magento2_ro-RO"
+	,"type": "magento2-language"
+	,"description": "Romanian language"
+	,"homepage": "-"
+	,"license": "proprietary"
+	,"authors": [{
+		"name": "Bacila Andrei",
+		"email": "andreibacila@avasting.ro",
+		"homepage": "-",
+		"role": "Developer"
+	}]	
+	,"extra": {"map": [["*", "an4rei/ro_ro"]]}
+}
